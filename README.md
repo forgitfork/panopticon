@@ -1,3 +1,5 @@
+# I strongly recommend that you use [this fork](https://github.com/ihaveamac/panopticon) instead. This repository is long dead.
+
 # Panopticon
 
 A user-focused message logger for Discord, a la the built-in logging present in many IRC clients.
